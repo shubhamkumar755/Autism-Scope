@@ -1,0 +1,25 @@
+{
+  "short_name": "Autism Predictor",
+  "name": "Autism Predictor - AI-powered autism screening tool",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "256x256 250x250 128x128 128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
