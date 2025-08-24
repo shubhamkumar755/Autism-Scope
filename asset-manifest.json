@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AutismScope/static/css/main.16371d85.css",
+    "main.js": "/AutismScope/static/js/main.4d78cfdd.js",
+    "static/js/488.e58e798f.chunk.js": "/AutismScope/static/js/488.e58e798f.chunk.js",
+    "static/media/BOGV.gif": "/AutismScope/static/media/BOGV.b6b0cf8b229628a91075.gif",
+    "service-worker.js": "/AutismScope/service-worker.js",
+    "index.html": "/AutismScope/index.html",
+    "main.16371d85.css.map": "/AutismScope/static/css/main.16371d85.css.map",
+    "main.4d78cfdd.js.map": "/AutismScope/static/js/main.4d78cfdd.js.map",
+    "488.e58e798f.chunk.js.map": "/AutismScope/static/js/488.e58e798f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16371d85.css",
+    "static/js/main.4d78cfdd.js"
+  ]
+}
